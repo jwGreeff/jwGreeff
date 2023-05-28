@@ -1,6 +1,6 @@
 ### Welcome,
 
-This github profile is used to post computational materials related to subjects studied in Applied Mathematics as an undergraduate and post graduate. Materials related to certification courses are also included. The languages used mainly consist of <b>Python</b>, <b>R</b>, <b>SAS</b>, <b>SQL (MySQL and PostgreSQL)</b>, <b>Microsoft Excel</b> and <b>Latex</b>.<br><br>
+This github profile is used to post computational materials related to subjects studied in Applied Mathematics as an undergraduate and post graduate. Materials related to certification courses are also included. Programming languages used: <b>Python</b>,  <b>R</b>,  <b>SAS</b>,  <b>SQL (MySQL and PostgreSQL )</b>,  <b>Microsoft Excel</b> and  <b>Latex</b>.<br><br>
 
 
 | Theme | Description |
