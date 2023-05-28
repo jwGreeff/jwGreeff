@@ -4,7 +4,7 @@ This github profile will be used to post some of the computational materials rel
 
 
 | Theme      | Description |
-| :-----        |    :----   |  
+| :----       |    :------   |  
 | <a href='https://github.com/jwGreeff/Second-Year-Mathematical-Statistics-in-R'>Mathematical Statistics in <b>R</b></a>      | <b>1.</b> Limiting Distributions <br><b>2.</b> Statistics and Sampling Distributions <br><b>3.</b> Point Estimation, Sufficiency and Completeness, Interval Estimation <br><b>4.</b> Tests of Hypotheses      |
 | <a href='https://github.com/jwGreeff/Third-Year-Multivariate-Mathematical-Statistics-in-SAS'>Multivariate Mathematical Statistics in <b>SAS</b></a>   | <b>1.</b> Multivariate Distributions <br><b>2.</b> Simple and Multiple Linear Regression <br><b>3.</b> One-way ANOVA and ANCOVA <br><b>4.</b> Poisson and Logistic Regression | 
 | <a href='https://github.com/jwGreeff/Third-Year-Numerical-Analysis-in-Python'>Numerical Analysis in <b>Python</b></a>  | <b>1.</b> Direct methods for solving linear systems <br><b>2.</b> Iterative techniques in matrix algebra <br><b>3.</b> Numerical solution of eigenvalue problems, the power method <br><b>4.</b> Numerical methods for initial and boundary value problems for ODE's <br><b>5.</b> Numerical solution of nonlinear systems of equations.        | 
