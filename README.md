@@ -2,8 +2,7 @@
 
 This github profile is used to post computational materials related to subjects studied in Applied Mathematics as an undergraduate and post graduate. Materials related to certification courses are also included. Programming languages used: <b>Python</b>,  <b>R</b>,  <b>SAS</b>,  <b>SQL (MySQL and PostgreSQL )</b>,  <b>Microsoft Excel (VBA)</b> and  <b>Latex</b>.<br><br>
 
-| Applied Mathematics Undergraduate and Postgraduate |
-| :---- | :------ |
+## Applied Mathematics Undergraduate and Postgraduate
 | Theme | Description |
 | :---- | :------     |  
 | <a href='https://github.com/jwGreeff/Second-Year-Mathematical-Statistics-in-R'>Mathematical Statistics in <b>R</b></a>      | <b>1.</b> Limiting Distributions <br><b>2.</b> Statistics and Sampling Distributions <br><b>3.</b> Point Estimation, Sufficiency and Completeness, Interval Estimation <br><b>4.</b> Tests of Hypotheses      |
