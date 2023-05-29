@@ -1,6 +1,7 @@
 ### Welcome,
 
-This github profile is used to post computational materials related to subjects studied in Applied Mathematics as an undergraduate and post graduate. Materials related to certification courses are also included. Programming languages used: <b>Python</b>,  <b>R</b>,  <b>SAS</b>,  <b>SQL (MySQL and PostgreSQL )</b>,  <b>Microsoft Excel (VBA)</b> and  <b>Latex</b>.<br><br>
+This github profile is used to post computational materials related to subjects studied in BSc Applied Mathematics as an undergraduate and post graduate. Materials related to certification courses are also included. 
+<br>Programming languages used: <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="55" /></a>,  <b>R</b>,  <b>SAS</b>,  <b>SQL (MySQL and PostgreSQL )</b>,  <b>Microsoft Excel (VBA)</b> and  <b>Latex</b>.<br><br>
 
 <h3 align="left">My Links:</h3>
 <p align="left">
