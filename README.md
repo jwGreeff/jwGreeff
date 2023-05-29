@@ -19,5 +19,5 @@ This github profile is used to post computational materials related to subjects 
 </p>
 
 | Course Title &nbsp;&nbsp;  | Description |
-| :----- &nbsp;&nbsp; | :------     | 
+| :----- | :------     | 
 | <a href='https://github.com/jwGreeff/SQL-for-Data-Analysis-with-Microsoft-SQL-Server'>SQL for Data Analysis with Microsoft SQL Server</a>      | To query databases with SQL <b>;</b> Installing and working with Microsoft SQL Server 2019 and SQL Server Management Studio <b>;</b> Use SQL to apply complex criteria and transformations to database data <b>;</b> Master SQL functions for sophisticated data manipulation <b>;</b> Leverage an understanding of relational database design to link together data stored across multiple tables <b>;</b> Use aggregate queries to produce summarized views and analysis   |
