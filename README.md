@@ -1,6 +1,16 @@
 ### Welcome,
 
 This github profile is used to post computational materials related to subjects studied in Applied Mathematics as an undergraduate and post graduate. Materials related to certification courses are also included. Programming languages used: <b>Python</b>,  <b>R</b>,  <b>SAS</b>,  <b>SQL (MySQL and PostgreSQL )</b>,  <b>Microsoft Excel (VBA)</b> and  <b>Latex</b>.<br><br>
+
+<h3 align="left">My Links:</h3>
+<p align="left">
+</a>
+<a href="https://twitter.com/jwGreeff" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/jwgreeff/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 	
 <p align="center">
   <b>Applied Mathematics Undergraduate and Postgraduate:</b>
